@@ -1,4 +1,4 @@
-# CS210_SteamData Term Proje
+# CS210_SteamData Term Project
 This project involves the application of data analysis, data discovery, and machine learning algorithms to examine the games I own on Steam and the associated data related to those games
 
 # Motivation
