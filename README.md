@@ -15,3 +15,8 @@ Steam's 'Steam Web API' (available at https://developer.valvesoftware.com/wiki/S
 # Acquired data 
 You can access acquired data from this [link](game-data.xlsx)
 
+# Source Code
+Source Code as .ipynb [link](steam_data_analysis_and_visualization.ipynb)
+
+# Project Report
+Project Report as .pdf [link](CS210-Term_Project_Report.pdf)
